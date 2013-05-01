@@ -19,5 +19,7 @@ edit from mac
 
 ------------
 
+edite3d from home pc windows desktop
+
 
 >>>>>>> ecb5993fc622a847723cd07e06906fd2e8b5a366
